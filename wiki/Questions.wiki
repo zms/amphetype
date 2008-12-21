@@ -1,0 +1,43 @@
+#summary Asked Questions, Frequently or Not
+
+= Questions =
+
+No one has actually asked me any questions yet, but these come from the voices
+in my head.
+
+=== How do I type an entire book? ===
+
+ # First you might like to go to [http://www.gutenberg.org/wiki/Main_Page Project Gutenberg] and find a good book to type. Short books with little dialogue are probably the most convenient. Open it up in an editor and remove the Gutenberg legalese at the start and end. Save it as a UTF-8 file.
+ # Now goto the *Sources* tab in Amphetype,
+ # import it,
+ # put _In Order_ as your text selection method,
+ # expand the your text in the list and double-click the first text.
+ # Once you've typed the first text it will continue to select new texts in order from the book. If you do some lessons or other texts in between you can get back by double-clicking the text where you were last.
+
+=== What's the deal with regular expessions on the Source tab? ===
+
+The regular expressions here give you a lot of power and flexibility
+with weeding out undesirable text. Let's say you imported a novel, but would like
+to practice only on the "clean" fragments without dialogue or weird characters, etc.
+Then you can select the source, and enter
+
+{{{
+[^a-zA-Z0-9,.:;'\s-]
+}}}
+
+This will disable any text which has a character in it which isn't alphanumerical,
+whitespace, or any of the common punctuation. Another useful expression is _[A-Z][A-Z]_
+which will match any text which contain two capital letters in a row, which would probably
+be all-caps chapter headings or such.
+
+=== The averages does not behave as I expect, what's wrong? ===
+
+An [http://en.wikipedia.org/wiki/Average average] can be many things,
+though most people probably think about [http://en.wikipedia.org/wiki/Arithmetic_mean arithmetic mean].
+Amphetype however uses the [http://en.wikipedia.org/wiki/Median median] value
+for all averages. This is because the distribution of speed, accuracy, and fluidity
+is skewed (it has a hard limit on one side and the theoretical infinity on the other),
+so the median better represents the central tendency than the mean. Once in a while
+you're going to have some real fuck-ups and if the mean was used, those outliers
+would affect the average a lot more than most of your other results which is unfair.
+
