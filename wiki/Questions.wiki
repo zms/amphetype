@@ -54,7 +54,7 @@ Basically, let's say you have words you want to practice: A B C D E F ..
 
 Concatenate 2-word sublists would produce a lesson like: A B A B A B .. C D C D C D .. E F E F .. where the number of repetitions of each 2-word sequence equals the number of copies you chose.
 
-Commingle 4-word sublists w/ 2 copies would produce a lesson like [random mix of A A B B C C D D] [random mix of E E F F G G H H] ..
+Commingle 4-word sublists w/ 2 copies would produce a lesson like (random mix of A A B B C C D D) (random mix of E E F F G G H H) etc...
 
 === You suck at explaining stuff. ===
 
