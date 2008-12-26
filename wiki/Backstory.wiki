@@ -1,4 +1,5 @@
 #summary Backstory
+#labels Featured
 
 = Backstory =
 
@@ -38,4 +39,3 @@ problematic words and keys which can be used to generate new lessons. And that's
 
 From feedback from friends I've also added the ability to type whole books
 fragment by fragment so you can read them while practicing typing.
-
