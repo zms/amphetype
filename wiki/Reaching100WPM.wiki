@@ -12,7 +12,7 @@ Don't let the title fool you, I am not that good a typist yet. :) Consistent 100
 I believe that improvement comes fastest through effortful repetition. Mindless repetition is probably effective too, but if your brain is not taxed at all by what you are doing then there seems to be a lot less rewiring of the neurons. How many have not used Qwerty daily for 10 years at the same typing speed? I think keeping the brain from getting bored and losing interest in what you're trying to do is very important when you want to push your performance and here are some ideas:
 
  * Read a book while you type it. Not only will this give you an excellent excuse for "wasting" time on typing, but since the brain has to concentrate on two things at once, it should increase the mental load.
- * Make a game out of it. Aim for maximum speed, accuracy, whichever. Switch around. Get a list of common English words and try to get high scores on it. Take note of your least accurate keys and try to 
+ * Make a game out of it. Aim for maximum speed, accuracy, whichever. Switch around. Get a list of common English words and try to get high-scores on it. Accumulate some typing data and practice on "hard" texts for a challenge.
  * Compete with your friends. Treat it like a sport.
  * Other suggestions are welcome (that may be integrated in Amphetype)!
 
@@ -49,4 +49,3 @@ And seemingly being a tiny part of this buzz I'd like to plug the [http://colema
 == Inspiration ==
 
 See also Ryan Heise's [http://www.ryanheise.com/colemak/ experience with switching to Colemak]. He had an insanely fast improvement rate (still rougly logarithmic) when he switched layouts. Maybe you can garner some inspiration or wisdom from his experience. He wrote his own typing test too.
-
