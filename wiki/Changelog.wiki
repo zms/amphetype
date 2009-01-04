@@ -1,6 +1,15 @@
 #summary Change log
 #labels Featured
 
+== 0.17: (sources version) ==
+
+ * ADD: new "sitting" grouping method in performance tab
+ * ADD: ability to tune running average used to smooth out graph
+ * ADD: ability to set group-by value used for avg-of-last-# and "group by" in performance tab
+ * CHANGE: unified "text/lesson" and source selector in performance tab
+ * CHANGE: rearranged some items on preferences tab, added links to Settings wiki page
+ * FIX: reviews now start out as disabled (considered this a bug)
+ * FIX: typer wasn't getting notified properly when you changed the font
 
 == 0.16: 2009-01-01 ==
 
