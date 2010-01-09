@@ -61,7 +61,7 @@ Commingle 4-word sublists w/ 2 copies would produce a lesson like (random mix of
 
 I told you! Make sure you use UTF-8 text format. It *will* choke otherwise. Try opening the files in Notepad (for example) and save them again in UTF-8.
 
-=== Is there any functionality to the database ===
+=== Is there any functionality to access the raw data? ===
 
 The database file (ends with ".db") is a SQLite3 file, so you can download the SQLite client or any other tool that supports SQLite files, and use it just like any other SQL database, export, import, whatever.
 
