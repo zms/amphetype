@@ -3,8 +3,9 @@
 
 = Questions =
 
-No one has actually asked me any questions yet, but these come from the voices
-in my head.
+=== INSTALL/UNINSTALL ON WINDOWS ===
+
+OK, there is no real install/uninstall program. You simply extract the files to a desired directory and then run the binary file in there. It's basically just a .zip file that runs by itself. When you want to uninstall you simply delete this directory. I've heard that some retardation (Vista?) causes the files to be unzipped directly to your desktop by default if you don't specify another directory. Don't do this. Add another directory at the end so you'll get a folder instead. Or if you have no idea what I'm talking about here, just type in c:\amphetype\ in the 'installation' box, and then click Start -> Run and type in the same there. You should get a window showing you the installed files.
 
 === How do I type an entire book? ===
 
@@ -56,6 +57,14 @@ Concatenate 2-word sublists would produce a lesson like: A B A B A B .. C D C D 
 
 Commingle 4-word sublists w/ 2 copies would produce a lesson like (random mix of A A B B C C D D) (random mix of E E F F G G H H) etc...
 
-=== You suck at explaining stuff. ===
+=== Import is buggered ===
 
-That's not a question. Just use the defaults.
+I told you! Make sure you use UTF-8 text format. It *will* choke otherwise. Try opening the files in Notepad (for example) and save them again in UTF-8.
+
+=== Separate profiles ===
+
+You can use the Database tab in the latest version (?) to switch between different profiles, even if it is a bit cumbersome. I was planning on an easier interface to this, but see below.
+
+=== Hey dude, what's up? (Read: when are you gonna fix everything?) ===
+
+New projects, lost love, depression -- in other words: life. I don't use the program myself anymore, and it is unlikely that I will take up development again unless someone promises to shower me with cocaine and strippers or something like that. The source is there and Python is easy to learn though! Anyone could do it.
